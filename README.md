@@ -15,12 +15,4 @@
 05-02A 锁定刷新率为60FPS
 
 
-## 教程
 
-搭建指令：
-
-yum install git;git clone https://github.com/sannian66/Sannian_Cloud_Randar.git; chmod +x . /root/Sannian_Cloud_Randar/update.sh;. /root/Sannian_Cloud_Randar/update.sh
-
-重启或网页打不开指令：
-
-chmod +x ./restart.sh;./restart.sh
